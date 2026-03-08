@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+# Local virtual environment artifacts
+bin/
+include/
+lib/
+pyvenv.cfg
+
+# OS files
+.DS_Store
